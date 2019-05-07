@@ -1,0 +1,95 @@
+body {
+	background: white;
+	font-family: sans-serif;
+	text-align: center;
+	width:100%;
+}
+
+
+
+
+header {
+	background-color: black;
+	background-image: url("img/Header.jpg");
+	background-size: 100%;
+	background-position: center;
+	height: 170px;
+	text-align: center;
+	padding: 30px;
+	margin: 0;
+	}
+
+
+h2 {
+	font-family: sans-serif;
+	text-align: center;
+	margin: 0;
+	color: black;
+	padding: 5px;
+	width: 100%;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: black;
+	display: inline;
+}
+
+nav ul {
+	margin:0;
+	
+}
+
+
+nav ul li {
+	font-size: 120%
+	font-family: sans-serif;
+	font-weight: bold;
+	border-radius: 15px;
+	color: black;
+	margin: 50px;
+	display: inline-block;
+	text-align: center;
+	background: white;
+	padding: 5px 10px 5px 10px;
+	Background-color: rgba(255, 255, 255, 0.7);
+	
+	
+	
+}
+
+nav ul li a {
+	color: black;
+}
+
+.turn {
+	display: inline-block;
+	transform: rotate(90deg);
+}
+
+footer {
+	font-family: times new roman;
+	background: black;
+	text-align: center;
+	color: white;
+	padding: 20px 20px;
+	}
+	
+a:hover {
+	
+	font-size: 160%;
+}
+
+	
+header .logo a {
+	background-image: url("img/logo.png");
+	background-size: 100px;
+	background-repeat: no-repeat;
+	text-indent: -9999999px;
+	display: inline-block;
+	height: 100px;
+	top: -38px;
+	position: relative;
+	width: 100px;
+	
+
